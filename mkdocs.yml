@@ -1,6 +1,7 @@
 site_name: potyk-self
 site_url: https://potyk.io/potyk-self
 site_dir: site
+repo_url: https://github.com/potykion/potyk-self
 
 theme:
   name: material
