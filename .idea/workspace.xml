@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="205acc96-138e-4e92-b0d5-fe778226a610" name="Changes" comment="feat: init">
-      <change afterPath="$PROJECT_DIR$/docs/Предпочтения-и-размышления/Размышления-о-сэндвичах.md" afterDir="false" />
+    <list default="true" id="205acc96-138e-4e92-b0d5-fe778226a610" name="Changes" comment="feat: Размышления о сэндвичах">
+      <change afterPath="$PROJECT_DIR$/docs/2026.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Еда и напитки.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/sport.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/sport.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +16,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="6" />
+    <option name="cachedIndexableFilesCount" value="16" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -48,31 +51,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.codeium.enabled": "true",
-    "git-widget-placeholder": "main",
-    "git.auto.fetch.suggestion.counter": "1",
-    "last_opened_file_path": "C:/Users/admin/PycharmProjects/potyk-self/docs",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.codeium.enabled&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;git.auto.fetch.suggestion.counter&quot;: &quot;1&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/PycharmProjects/potyk-self/docs&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\admin\PycharmProjects\potyk-self\docs" />
       <recent name="C:\Users\admin\PycharmProjects\potyk-self" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\PycharmProjects\potyk-self\docs" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -91,7 +97,8 @@
       <option name="presentableId" value="Default" />
       <updated>1778763768391</updated>
       <workItem from="1778763769447" duration="818000" />
-      <workItem from="1778764602514" duration="322000" />
+      <workItem from="1778764602514" duration="481000" />
+      <workItem from="1780486318563" duration="1308000" />
     </task>
     <task id="LOCAL-00001" summary="feat: init">
       <option name="closed" value="true" />
@@ -117,7 +124,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778764709816</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat: Размышления о сэндвичах">
+      <option name="closed" value="true" />
+      <created>1778764935112</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1778764935112</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +151,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: init" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: init" />
+    <MESSAGE value="feat: Размышления о сэндвичах" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Размышления о сэндвичах" />
   </component>
 </project>
